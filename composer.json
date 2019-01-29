@@ -1,0 +1,8 @@
+{
+    "name": "sabrina/doctrine-demo5ai",
+    "description": "short demo for doctrine dbal",
+    "type": "project",
+    "require": {
+        "doctrine/dbal": "^2.9"
+    }
+}
